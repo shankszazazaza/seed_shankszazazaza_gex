@@ -1,0 +1,11 @@
+{
+    "symbol": [
+        "SPY_GEX"
+    ],
+    "description": [
+        "SPY Gamma Levels"
+    ],
+    "pricescale": [
+        100
+    ]
+}
